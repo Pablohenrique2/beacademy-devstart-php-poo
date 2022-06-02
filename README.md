@@ -1,5 +1,5 @@
 # beacademy-devstart-php-poo
-Repositório para armazenar exercícios de PHP orientado a objetos propostos em aulas.
+Repositório para armazenar conteudo de PHP orientado a objetos aprendidos em aulas.
 
 
 ## Matérias
