@@ -2,7 +2,7 @@
 Repositório para armazenar exercícios de PHP orientado a objetos propostos em aulas.
 
 
-## Materias
+## Matérias
 
 > ### PHP-Poo
 
