@@ -16,11 +16,11 @@ Repositório para armazenar conteudo de PHP orientado a objetos aprendidos em au
 
 [4.Herança ]()
 
-[5.Métodos Estáticos ]()
+[5.Métodos Estáticos , Polimorfismo e Interfaces.()
 
-[6. ]()
+[6. Composer - Auto Load ]()
 
-[7. ]()
+[7.Projeto ]()
 
 
 ## Autor
